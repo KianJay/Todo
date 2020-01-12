@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useRef } from 'react'
-import TodoTemplate from './todo/components/TodoTemplate'
-import TodoInsert from './todo/components/TodoInsert'
-import TodoList from './todo/components/TodoList'
+import TodoTemplate from './components/TodoTemplate'
+import TodoInsert from './components/TodoInsert'
+import TodoList from './components/TodoList'
 
 
 
