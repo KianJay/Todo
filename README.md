@@ -1,5 +1,5 @@
 # To-Do Application 
-Duyoung Jang(Kian)
+Duyoung Jang(Kian)</br>
 [To-Do](https://dazzling-spence-b8b00a.netlify.com) Deployed With Netlify 
 You can create, delete and check with this To-Do application</br>
 Simply, Put the today's tasks and cross off it! when done! 
@@ -8,7 +8,7 @@ Simply, Put the today's tasks and cross off it! when done!
 To practice React.js/ Hooks and SCSS features I implemented basic To-Do application.
 
 ## Stacks And Libraries
-Built with React.js, SCCS and Netlify to deploy the application
+Built with React.js, SCCS and Netlify to deploy the [application](https://dazzling-spence-b8b00a.netlify.com)
 
 ## To set-up
 run npm i && npm start for both client and server side to start the development server
