@@ -10,7 +10,7 @@ To practice React.js/ Hooks and SCSS features I implemented basic To-Do applicat
 ## Stacks And Libraries
 Built with React.js, SCCS and Netlify to deploy the application
 
-To set-up
+## To set-up
 run npm i && npm start for both client and server side to start the development server
 
 The Application Images
